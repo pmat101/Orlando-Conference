@@ -1,4 +1,6 @@
-* {
-  color: #fff;
-  background-color: #000;
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
 }
